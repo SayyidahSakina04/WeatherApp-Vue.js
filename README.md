@@ -1,5 +1,7 @@
 # Weather App
 
+Available at: https://weather-app-vue-js-sandy.vercel.app
+
 A modern, responsive weather application built with Vue 3 and Tailwind CSS. Get real-time weather information for any city worldwide.
 
 ## Features
